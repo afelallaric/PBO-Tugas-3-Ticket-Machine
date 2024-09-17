@@ -37,8 +37,8 @@ public class Main {
         }
 
         System.out.println("Masukkan uang anda: ");
-        int amount = scanner.nextInt();
-        machine.bayar(amount);
+        int Jumlah = scanner.nextInt();
+        machine.bayar(Jumlah);
 
         machine.printTiket();
 
