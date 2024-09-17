@@ -1,7 +1,7 @@
 public enum TiketBus {
     _1_JAM(5000, "Tiket selama 1 jam"),
     _6_JAM(7000, "Tiket selama 6 jam"),
-    _16_JAM(10000, "Tiket selama 16 jam");
+    _16_JAM(9000, "Tiket selama 16 jam");
 
     private final int harga;
     private final String detail;
